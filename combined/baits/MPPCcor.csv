@@ -1,0 +1,11 @@
+results_file,in_A,in_B,bait_path,MPPC_cor,redo
+bait_rjmcmc_102201.rds,FALSE,TRUE,combined/baits/bait_102201.rds,,FALSE
+bait_rjmcmc_119435.rds,TRUE,TRUE,combined/baits/bait_119435.rds,0.10006241696343,TRUE
+bait_rjmcmc_119522.rds,TRUE,TRUE,combined/baits/bait_119522.rds,0.692424957347803,TRUE
+bait_rjmcmc_144385.rds,TRUE,TRUE,combined/baits/bait_144385.rds,0.877369736399986,FALSE
+bait_rjmcmc_162008.rds,TRUE,TRUE,combined/baits/bait_162008.rds,0.107567732232459,TRUE
+bait_rjmcmc_175487.rds,TRUE,TRUE,combined/baits/bait_175487.rds,0.630065560948483,TRUE
+bait_rjmcmc_53559.rds,TRUE,TRUE,combined/baits/bait_53559.rds,0.0363900795980168,TRUE
+bait_rjmcmc_71638.rds,TRUE,FALSE,combined/baits/bait_71638.rds,,FALSE
+bait_rjmcmc_95958.rds,TRUE,TRUE,combined/baits/bait_95958.rds,0.0391667546111157,TRUE
+bait_rjmcmc_96180.rds,TRUE,TRUE,combined/baits/bait_96180.rds,0.00939222262231787,TRUE

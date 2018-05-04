@@ -1,0 +1,14 @@
+PEAKY
+
+03-05-2018 17:43:44
+Loaded bait 175487 from path: /home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/baits/bait_175487.rds...
+
+03-05-2018 17:43:44
+Constructing distance matrix with omega=10^-4.7...
+
+03-05-2018 17:47:28
+Saving RJMCMC results to /home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_175487.rds
+
+03-05-2018 17:47:29
+Done.
+

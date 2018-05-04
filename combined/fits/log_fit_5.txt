@@ -1,0 +1,34 @@
+FITTING
+
+Loading bin from /home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/bins/bin_5.rds
+
+03-05-2018 16:09:03
+Subsampling 1000/9064 interactions for the null model regression...
+
+03-05-2018 16:09:03
+Fitting with a maximum of 200 iterations...
+
+03-05-2018 16:09:04
+Converged: YES
+Iterations: 21
+
+Coefficients:
+
+(Intercept)	39.8187900366287
+
+log(abs(dist))	-2.69634960673171
+
+b.trans_res	0.166444665729724
+
+sqrt(b.length)	0.00187281644787756
+
+sqrt(p.length)	-0.000457869965868906
+
+03-05-2018 16:09:04
+Obtaining normalized randomized quantile residuals for the full dataset...
+
+Saving fit to /home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/fits/fit_5.rds...
+
+03-05-2018 16:09:04
+Saving all residuals to /home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/fits/residuals_5.rds...
+

@@ -1,0 +1,10 @@
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_102201.rds
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_119435.rds
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_119522.rds
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_144385.rds
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_162008.rds
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_175487.rds
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_53559.rds
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_71638.rds
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_95958.rds
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_96180.rds

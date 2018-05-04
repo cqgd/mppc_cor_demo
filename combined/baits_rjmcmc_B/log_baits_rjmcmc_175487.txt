@@ -1,0 +1,26 @@
+INTERPRETING RJMCMC RESULTS
+
+Loading RJMCMC result and bait:
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/rjmcmc/rjmcmc_175487.rds
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/baits/bait_175487.rds
+
+03-05-2018 18:15:06
+Calculating alphas...
+
+03-05-2018 18:15:06
+Calculating posteriors...
+
+03-05-2018 18:15:08
+Calculating betas means and medians...
+
+03-05-2018 18:15:08
+Constructing distance matrix with omega=10^4.7...
+
+Finding RJMCMC predictions based on mean betas...
+
+03-05-2018 18:15:09
+Wrapping up...
+
+03-05-2018 18:15:09
+Saving the bait with its RJMCMC results to/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/baits_rjmcmc/bait_rjmcmc_175487.rds
+

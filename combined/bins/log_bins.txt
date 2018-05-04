@@ -1,0 +1,48 @@
+BINNING
+
+03-05-2018 16:08:58
+Reading interactions from /home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/counts.tsv
+
+03-05-2018 16:08:58
+Reading fragment information from /home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/fragments.bed
+
+03-05-2018 16:08:58
+Calculating fragment characteristics...
+
+03-05-2018 16:08:58
+Adding fragment characteristics for baits...
+
+03-05-2018 16:08:58
+Adding fragment characteristics for preys...
+
+03-05-2018 16:08:58
+Calculating interaction distances...
+
+03-05-2018 16:08:58
+Calculating total trans-chromosomal read counts for each bait...
+
+03-05-2018 16:08:58
+Modelling those as a function of bait chromosome...
+
+03-05-2018 16:08:58
+Assigning 5 distance bins...
+
+03-05-2018 16:08:58
+Done.
+
+03-05-2018 16:08:58
+Saving binned interactions:
+
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/bins/bin_1.rds
+
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/bins/bin_2.rds
+
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/bins/bin_3.rds
+
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/bins/bin_4.rds
+
+/home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/bins/bin_5.rds
+
+03-05-2018 16:08:58
+Saving bin details to /home/cq/R/x86_64-pc-linux-gnu-library/3.4/peaky/extdata/bins/bins.txt
+
