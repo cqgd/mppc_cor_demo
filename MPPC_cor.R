@@ -37,7 +37,7 @@ MPPC_cor_by_dir = function(baits_rjmcmc_dir_A, baits_rjmcmc_dir_B, baits_dir, co
   file_cor_table = merge(file_table, cor_table, by="results_file", all.x = TRUE)
   file_cor_table[,redo:=!is.na(MPPC_cor) & MPPC_cor<cor_threshold]
   
-  table_path = paste0(baits_dir,"/","MPPCcor_table.txt")
+  table_path = paste0(baits_dir,"/","MPPCcor.csv")
   baitlist_path = paste0(baits_dir,"/","baitlist_MPPCcor_sub_",cor_threshold,".txt")
   
   peaky:::note(L,TRUE,"Saving MPPC correlation overview:\n",table_path,
@@ -49,13 +49,12 @@ MPPC_cor_by_dir = function(baits_rjmcmc_dir_A, baits_rjmcmc_dir_B, baits_dir, co
   return(file_cor_table)
 }
 
-baits_rjmcmc_dir_A = "/home/cq/Work/chic/extdata_1/baits_rjmcmc/"
-baits_rjmcmc_dir_B = "/home/cq/Work/chic/extdata_2/baits_rjmcmc/"
+setwd("PATH")
 
-baits_dir = "/home/cq/Work/chic/extdata_1/baits"
+baits_rjmcmc_dir_A = "combined/baits_rjmcmc_A/"
+baits_rjmcmc_dir_B = "combined/baits_rjmcmc_B/"
+
+baits_dir = "combined/baits"
 cor_threshold=.75
 
 MPPC_cor_by_dir(baits_rjmcmc_dir_A, baits_rjmcmc_dir_B, baits_dir, 0.75)
-#peaky:::note(NA,T,"Finding MPPC correlation...\n",
-#             "Dir A: ", baits_rjmcmc_dir_A,"\nDir B: ",baits_rjmcmc_dir_B)
-
