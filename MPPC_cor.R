@@ -58,3 +58,29 @@ baits_dir = "combined/baits"
 cor_threshold=.75
 
 MPPC_cor_by_dir(baits_rjmcmc_dir_A, baits_rjmcmc_dir_B, baits_dir, 0.75)
+
+# 04-05-2018 14:44:25
+# Calculating MPPC cor for interpreted peaky results in:
+#   A: combined/baits_rjmcmc_A/
+#   B: combined/baits_rjmcmc_B/
+#   Unique bait results across A and B: 10
+# Bait results in both A and B: 8
+# 04-05-2018 14:44:25
+# Loading common results and calculating MPPC...
+# 04-05-2018 14:44:25
+# Saving MPPC correlation overview:
+#   combined/baits/MPPCcor.csv
+# Saving baitlist for baits with MPPC correlation below 0.75:
+#   combined/baits/baitlist_MPPCcor_sub_0.75.txt
+# Done.
+# results_file  in_A  in_B                      bait_path    MPPC_cor  redo
+# 1: bait_rjmcmc_102201.rds FALSE  TRUE combined/baits/bait_102201.rds          NA FALSE
+# 2: bait_rjmcmc_119435.rds  TRUE  TRUE combined/baits/bait_119435.rds 0.100062417  TRUE
+# 3: bait_rjmcmc_119522.rds  TRUE  TRUE combined/baits/bait_119522.rds 0.692424957  TRUE
+# 4: bait_rjmcmc_144385.rds  TRUE  TRUE combined/baits/bait_144385.rds 0.877369736 FALSE
+# 5: bait_rjmcmc_162008.rds  TRUE  TRUE combined/baits/bait_162008.rds 0.107567732  TRUE
+# 6: bait_rjmcmc_175487.rds  TRUE  TRUE combined/baits/bait_175487.rds 0.630065561  TRUE
+# 7:  bait_rjmcmc_53559.rds  TRUE  TRUE  combined/baits/bait_53559.rds 0.036390080  TRUE
+# 8:  bait_rjmcmc_71638.rds  TRUE FALSE  combined/baits/bait_71638.rds          NA FALSE
+# 9:  bait_rjmcmc_95958.rds  TRUE  TRUE  combined/baits/bait_95958.rds 0.039166755  TRUE
+# 10:  bait_rjmcmc_96180.rds  TRUE  TRUE  combined/baits/bait_96180.rds 0.009392223  TRUE
