@@ -49,11 +49,9 @@ MPPC_cor_by_dir = function(baits_rjmcmc_dir_A, baits_rjmcmc_dir_B, baits_dir, co
   return(file_cor_table)
 }
 
-setwd("PATH")
-
-baits_rjmcmc_dir_A = "combined/baits_rjmcmc_A/"
+#use full paths
+baits_rjmcmc_dir_A = "combined/baits_rjmcmc_A/" 
 baits_rjmcmc_dir_B = "combined/baits_rjmcmc_B/"
-
 baits_dir = "combined/baits"
 cor_threshold=.75
 

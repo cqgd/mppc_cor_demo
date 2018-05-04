@@ -36,3 +36,60 @@ combined/baits/baitlist_MPPCcor_sub_0.75.txt
 
 Done.
 
+04-05-2018 14:54:45
+Calculating MPPC cor for interpreted peaky results in:
+A: /home/cq/Work/chic/combined/baits_rjmcmc_A/
+B: /home/cq/Work/chic/combined/baits_rjmcmc_B/
+
+Unique bait results across A and B: 10
+Bait results in both A and B: 8
+
+04-05-2018 14:54:45
+Loading common results and calculating MPPC...
+
+04-05-2018 14:54:45
+Saving MPPC correlation overview:
+combined/baits/MPPCcor.csv
+Saving baitlist for baits with MPPC correlation below 0.75:
+combined/baits/baitlist_MPPCcor_sub_0.75.txt
+
+Done.
+
+04-05-2018 14:55:16
+Calculating MPPC cor for interpreted peaky results in:
+A: /home/cq/Work/chic/combined/baits_rjmcmc_A/
+B: /home/cq/Work/chic/combined/baits_rjmcmc_B/
+
+Unique bait results across A and B: 10
+Bait results in both A and B: 8
+
+04-05-2018 14:55:16
+Loading common results and calculating MPPC...
+
+04-05-2018 14:55:16
+Saving MPPC correlation overview:
+/home/cq/Work/chic/combined/baits/MPPCcor.csv
+Saving baitlist for baits with MPPC correlation below 0.75:
+/home/cq/Work/chic/combined/baits/baitlist_MPPCcor_sub_0.75.txt
+
+Done.
+
+04-05-2018 14:56:27
+Calculating MPPC cor for interpreted peaky results in:
+A: combined/baits_rjmcmc_A/
+B: combined/baits_rjmcmc_B/
+
+Unique bait results across A and B: 10
+Bait results in both A and B: 8
+
+04-05-2018 14:56:27
+Loading common results and calculating MPPC...
+
+04-05-2018 14:56:27
+Saving MPPC correlation overview:
+combined/baits/MPPCcor.csv
+Saving baitlist for baits with MPPC correlation below 0.75:
+combined/baits/baitlist_MPPCcor_sub_0.75.txt
+
+Done.
+
