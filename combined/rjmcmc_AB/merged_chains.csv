@@ -1,0 +1,11 @@
+results_file,in_A,in_B,iterations_in_A,models_in_A,iterations_in_B,models_in_B,iterations_in_AB,models_in_AB
+rjmcmc_102201.rds,FALSE,TRUE,,,,,,
+rjmcmc_119435.rds,TRUE,TRUE,1e+06,10000,1e+06,10000,2e+06,20000
+rjmcmc_119522.rds,TRUE,TRUE,1e+06,10000,1e+06,10000,2e+06,20000
+rjmcmc_144385.rds,TRUE,TRUE,1e+06,10000,1e+06,10000,2e+06,20000
+rjmcmc_162008.rds,TRUE,TRUE,1e+06,10000,1e+06,10000,2e+06,20000
+rjmcmc_175487.rds,TRUE,TRUE,1e+06,10000,1e+06,10000,2e+06,20000
+rjmcmc_53559.rds,TRUE,TRUE,1e+06,10000,1e+06,10000,2e+06,20000
+rjmcmc_71638.rds,TRUE,FALSE,,,,,,
+rjmcmc_95958.rds,TRUE,TRUE,1e+06,10000,1e+06,10000,2e+06,20000
+rjmcmc_96180.rds,TRUE,TRUE,1e+06,10000,1e+06,10000,2e+06,20000

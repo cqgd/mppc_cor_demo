@@ -1,0 +1,19 @@
+MERGING CHAINS
+
+19-06-2018 01:14:56
+Merging chains for RJMCMC results in:
+A: /home/cq/Work/chic/combined/rjmcmc_A
+B: /home/cq/Work/chic/combined/rjmcmc_B
+
+Unique RJMCMC results across A and B: 10
+RJMCMC results in both A and B: 8
+
+19-06-2018 01:14:56
+Loading common RJMCMC results and pooling their models...
+
+19-06-2018 01:15:22
+Saving overview of merged chains:
+/home/cq/Work/chic/combined/rjmcmc_AB/merged_chains.csv
+
+Done.
+
