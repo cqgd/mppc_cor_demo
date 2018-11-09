@@ -1,0 +1,90 @@
+PEAKY Window QC
+
+09-11-2018 18:15:01
+Found 9 baits in combined/baits_rjmcmc_A
+
+
+09-11-2018 18:15:01
+Loading result [1/9]: combined/baits_rjmcmc_A/bait_rjmcmc_119435.rds
+
+Calculating mean and variance of RJMCMC residuals across windows containing 250 interactions....
+
+09-11-2018 18:15:01
+Writing these statistics to combined/windows_A/window_119435.rds...
+
+
+09-11-2018 18:15:01
+Loading result [2/9]: combined/baits_rjmcmc_A/bait_rjmcmc_119522.rds
+
+Calculating mean and variance of RJMCMC residuals across windows containing 250 interactions....
+
+09-11-2018 18:15:01
+Writing these statistics to combined/windows_A/window_119522.rds...
+
+
+09-11-2018 18:15:01
+Loading result [3/9]: combined/baits_rjmcmc_A/bait_rjmcmc_144385.rds
+
+Calculating mean and variance of RJMCMC residuals across windows containing 250 interactions....
+
+09-11-2018 18:15:01
+Writing these statistics to combined/windows_A/window_144385.rds...
+
+
+09-11-2018 18:15:01
+Loading result [4/9]: combined/baits_rjmcmc_A/bait_rjmcmc_162008.rds
+
+Calculating mean and variance of RJMCMC residuals across windows containing 250 interactions....
+
+09-11-2018 18:15:01
+Writing these statistics to combined/windows_A/window_162008.rds...
+
+
+09-11-2018 18:15:01
+Loading result [5/9]: combined/baits_rjmcmc_A/bait_rjmcmc_175487.rds
+
+Calculating mean and variance of RJMCMC residuals across windows containing 250 interactions....
+
+09-11-2018 18:15:01
+Writing these statistics to combined/windows_A/window_175487.rds...
+
+
+09-11-2018 18:15:01
+Loading result [6/9]: combined/baits_rjmcmc_A/bait_rjmcmc_53559.rds
+
+Calculating mean and variance of RJMCMC residuals across windows containing 250 interactions....
+
+09-11-2018 18:15:01
+Writing these statistics to combined/windows_A/window_53559.rds...
+
+
+09-11-2018 18:15:01
+Loading result [7/9]: combined/baits_rjmcmc_A/bait_rjmcmc_71638.rds
+
+Calculating mean and variance of RJMCMC residuals across windows containing 250 interactions....
+
+09-11-2018 18:15:01
+Writing these statistics to combined/windows_A/window_71638.rds...
+
+
+09-11-2018 18:15:01
+Loading result [8/9]: combined/baits_rjmcmc_A/bait_rjmcmc_95958.rds
+
+Calculating mean and variance of RJMCMC residuals across windows containing 250 interactions....
+
+09-11-2018 18:15:01
+Writing these statistics to combined/windows_A/window_95958.rds...
+
+
+09-11-2018 18:15:01
+Loading result [9/9]: combined/baits_rjmcmc_A/bait_rjmcmc_96180.rds
+
+Calculating mean and variance of RJMCMC residuals across windows containing 250 interactions....
+
+09-11-2018 18:15:01
+Writing these statistics to combined/windows_A/window_96180.rds...
+
+
+09-11-2018 18:15:01
+Done.
+
